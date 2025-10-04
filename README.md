@@ -23,7 +23,6 @@ Final outputs include the trained parameter matrices and predicted CpG island re
 
 ## Quickstart
 
-### Run these commands
 ```bash
 git clone https://github.com/Ashton_Axe/hmm-cpg-island-detection.git
 cd hmm-cpg-island-detection
