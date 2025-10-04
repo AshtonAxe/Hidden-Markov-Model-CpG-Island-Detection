@@ -29,6 +29,7 @@ git clone https://github.com/Ashton_Axe/hmm-cpg-island-detection.git
 cd hmm-cpg-island-detection
 conda create -n hmm_cpg python=3.11
 conda activate hmm_cpg
+pip install scikit-learn scipy pyranges biopython pyjaspar pysam pyfaidx logomaker anndata torch
 python data/chr21.py
 python data/chr22.py
 python data/cpg_islands.py
