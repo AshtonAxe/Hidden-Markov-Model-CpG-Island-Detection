@@ -17,7 +17,7 @@ Final outputs include the trained parameter matrices and predicted CpG island re
 - **Key Features:**  
   - Handles zero probabilities via smoothing  
   - Customizable initial state distribution  
-  - Fully reproducible workflow with small example data
+  - Fully reproducible workflow
 
 ---
 
